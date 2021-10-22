@@ -73,3 +73,12 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
   Nest is [MIT licensed](LICENSE).
+
+## Biblioteca de Validação comando no terminal
+
+``` npm install class-validator --save```
+
+
+## Biblioteca de transformação comando no terminal
+
+``` npm install class-transformer --save```
